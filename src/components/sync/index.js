@@ -8,11 +8,11 @@ const sync = function () {
     // `
 }
 
-const isArray = function (args) {
+const isArrayFun = function (args) {
     console.log(lodash.isArray(args))
 }
 
 export {
     sync,
-    isArray
+    isArrayFun
 }
