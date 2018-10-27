@@ -1,6 +1,6 @@
 const WebpackDeepScopeAnalysisPlugin = require('webpack-deep-scope-plugin').default;
 
-module.export = {
+module.exports = {
   plugins: [
     new WebpackDeepScopeAnalysisPlugin()
   ]
