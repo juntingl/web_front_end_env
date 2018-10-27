@@ -18,3 +18,5 @@ export {
     isArray
 }
 ```
+
+* 启用 `CSS modules`，根据文件夹为一个模块，在外面通过 module.test 的方式使用
