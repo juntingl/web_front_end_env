@@ -3,3 +3,10 @@ node_modules
 .vscode
 .DS_Store
 .idea
+npm-debug.log
+yarn-error.log
+
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
